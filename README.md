@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @srenner-cs
+👋 Hi, I’m @srenner-cs
 
-- I work at CarShield in the web app group
+I work at CarShield in the web app group
 
 <!---
 srenner-cs/srenner-cs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
