@@ -1,4 +1,4 @@
-👋 Hi, I’m @srenner-cs
+👋 Hi, I’m @srenner-cs (Shawn Renner)
 
 I work at CarShield in the web app group
 
